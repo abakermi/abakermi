@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Nuxtjs, microservices, kubernete**
+- 💬 Ask me about **Serverless, AWS, kubernete**
 
 - 📫 How to reach me **abdelhak.akermi@gmail.com**
 
